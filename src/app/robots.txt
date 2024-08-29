@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /user/
+Disallow: /cart/
+Disallow: /checkout/
+
+Sitemap: https://acme.com/sitemap.xml
